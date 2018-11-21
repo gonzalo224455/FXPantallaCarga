@@ -1,0 +1,9 @@
+.logo{
+	-fx-text-fill: #3e3e5b;
+	-fx-background-radius: 50.0;
+	-fx-background-color: white;
+	-fx-font-size: 50.0;
+}
+.Titulo{
+	-fx-font-size: 50.0;
+}
