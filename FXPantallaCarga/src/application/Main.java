@@ -21,7 +21,6 @@ public class Main extends Application {
 			FXMLLoader loader = new FXMLLoader(getClass().getResource("Carga.fxml"));
 			AnchorPane pane = loader.load();
 			Scene scene = new Scene(pane);
-			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.setTitle("");
 			primaryStage.setScene(scene);
 			primaryStage.show();
