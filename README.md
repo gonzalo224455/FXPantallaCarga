@@ -1,2 +1,2 @@
 # FXPantallaCarga
-![](/img/Captura.JPG)
+![](/FXPantallaCarga/img/Captura.JPG)
