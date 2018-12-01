@@ -1,0 +1,2 @@
+# FXPantallaCarga
+![](/img/Captura.JPG)
